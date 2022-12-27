@@ -1,0 +1,1 @@
+appium -p 4448 --nodeconfig ./../config/capabilities.json

@@ -1,0 +1,17 @@
+{
+  "name": "usbc-autotesting",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.onpeak.su:usbc.group/usbc-autotesting.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
